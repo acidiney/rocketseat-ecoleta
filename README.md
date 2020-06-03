@@ -13,8 +13,8 @@ Sistema desenvolvido dentro evento Next Level Week da Rocketseat que conecta pon
 Módulos
   - [x] Server
      Roda por padrão na porta `3333`
-  - [] Frontend (React)
-  - [] Mobile (React-Native)
+  - [ ] Frontend (React)
+  - [ ] Mobile (React-Native)
   
 ## Server
 
