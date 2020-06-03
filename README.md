@@ -1,6 +1,6 @@
 # rocketseat-ecoleta
 
-Sistema desenvolvido dentro evento Next Level Week da Rocketseat que conecta pontos de coleta de lixo reciclável e pessoas interessadas em fazer o descarte apropriado e consciente do lixo.
+Sistema desenvolvido dentro evento Next Level Week da Rocketseat que conecta pontos de coleta de lixo reciclável e pessoas interessadas em fazer o descarte apropriado e consciente do lixo. ( Descrição por [André David Dos Santos](https://github.com/andredavid1/ecoleta))
 
 # Techs
 
